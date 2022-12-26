@@ -25,17 +25,17 @@ Run this to install the depencencies
 
 ## ✍ Configuration
 
-Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/app.json) file (already contains a description for each key)
+Edit the config in the [app.json](https://github.com/Paiiss/XtawVBotz/blob/master/app.json) file (already contains a description for each key)
 
 ```json
 "env": {
         "MONGODB_URL": {
             "description": "Mongo DB url (required)",
-            "value": "mongodb+srv://allen:allen@allen-cluster.yx9pwer.mongodb.net/wa-bot"
+            "value": "mongodb+srv://allen:allen@allen-cluster.yx9pwer.mongodb.net/XtrawVBotz"
         },
         "PREFIX": {
             "description": "Prefix of bot",
-            "value": "!"
+            "value": "."
         },
         "LOLHUMAN_KEY": {
             "description": "LoL Human Apikey (https://api.lolhuman.xyz/)",
@@ -43,11 +43,11 @@ Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/a
         },
         "GROUP_ID": {
             "description": "For send bot report",
-            "value": "6285805609094-1635319627@​g.us"
+            "value": "6285159907432-1635319627@​g.us"
         },
         "BOT_NAME": {
             "description": "Bot Name",
-            "value": "Allen Bot"
+            "value": "XtawVBotz"
         },
         "TIME_ZONE": {
             "description": "Time Zone Bot",
@@ -55,11 +55,11 @@ Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/a
         },
         "FOOTER": {
             "description": "Footer of bot",
-            "value": "AllenBot • Paiiss"
+            "value": "XtawVBotz • Paiiss"
         },
         "LINK_GROUP": {
             "description": "Link Your Group Support",
-            "value": "https://chat.whatsapp.com/CktCFlTbTiMLq5K4fgIidd"
+            "value": https://chat.whatsapp.com/CTxRUSz4FNp5kQ4h670ni2"
         }
     }
 ```
@@ -74,4 +74,4 @@ Running the above command will run the bot process, the Qr code will come out in
 
 ## 🤡 Don't want the hassle?
 
-Set up on [Heroku](https://github.com/Paiiss/bot-wa/blob/master/Self-Heroku.md)
+Set up on [Heroku](https://github.com/Paiiss/XtawVBotz/blob/master/Self-Heroku.md)
